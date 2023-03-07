@@ -19,3 +19,7 @@ Task
 
 1. Somehow differentiate which images are ads in your output
 2. Save the images in a local zip folder
+
+The libraries imoprted are BeautifulSoup, lxml, requests, ImageFile, urllib, urllib.request, csv, os, shutil. 
+
+All of the above mentioned libraries have to be installed in your respective system prior to the compilation of the code.
